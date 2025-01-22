@@ -1,7 +1,7 @@
-base_url = "https://YOUR_URL.TLD"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://joshyorndorff.eth.limo"
+title = "Joshy Orndorff"
+description = "Joshy Orndorff's personal website and blog."
+author = "Joshy Orndorff"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
