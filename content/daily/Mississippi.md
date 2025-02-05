@@ -1,4 +1,3 @@
-
 +++
 title = "Mississippi"
 date = "2014-10-21T16:26:39+00:00"

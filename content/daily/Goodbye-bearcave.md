@@ -1,4 +1,3 @@
-
 +++
 title = "Goodbye bearcave"
 date = "2018-08-05T18:05:38+00:00"

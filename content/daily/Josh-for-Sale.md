@@ -1,4 +1,3 @@
-
 +++
 title = "Josh for Sale"
 date = "2012-12-07T16:23:49+00:00"

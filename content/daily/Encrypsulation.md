@@ -1,4 +1,3 @@
-
 +++
 title = "Encrypsulation"
 date = "2018-11-13T06:03:48+00:00"

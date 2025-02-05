@@ -1,4 +1,3 @@
-
 +++
 title = "Finalized Contract Deails"
 date = "2010-06-28T09:04:08+00:00"

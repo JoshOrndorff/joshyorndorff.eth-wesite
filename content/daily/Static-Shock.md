@@ -1,4 +1,3 @@
-
 +++
 title = "Static Shock"
 date = "2012-11-27T00:04:55+00:00"

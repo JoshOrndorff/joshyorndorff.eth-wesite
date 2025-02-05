@@ -1,4 +1,3 @@
-
 +++
 title = "New firewood"
 date = "2016-10-14T02:50:20+00:00"

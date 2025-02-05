@@ -1,4 +1,3 @@
-
 +++
 title = "Boat Burn Out"
 date = "2016-05-24T23:23:24+00:00"

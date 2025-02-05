@@ -1,4 +1,3 @@
-
 +++
 title = "Record Skips"
 date = "2016-08-23T01:11:16+00:00"

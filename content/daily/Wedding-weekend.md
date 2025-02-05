@@ -1,4 +1,3 @@
-
 +++
 title = "Wedding weekend"
 date = "2019-04-29T12:44:55+00:00"

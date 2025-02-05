@@ -1,4 +1,3 @@
-
 +++
 title = "Fastest on the track"
 date = "2012-10-31T22:31:36+00:00"

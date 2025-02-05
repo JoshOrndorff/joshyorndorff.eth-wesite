@@ -1,4 +1,3 @@
-
 +++
 title = "Losing Staff"
 date = "2012-06-28T04:10:35+00:00"

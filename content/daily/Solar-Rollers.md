@@ -1,4 +1,3 @@
-
 +++
 title = "Solar Rollers"
 date = "2016-07-08T03:21:48+00:00"

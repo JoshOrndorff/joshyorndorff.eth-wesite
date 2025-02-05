@@ -1,4 +1,3 @@
-
 +++
 title = "Grand Rapids Visit"
 date = "2010-09-12T04:36:01+00:00"

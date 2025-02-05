@@ -1,4 +1,3 @@
-
 +++
 title = "Oregon Trail"
 date = "2015-01-25T23:37:27+00:00"

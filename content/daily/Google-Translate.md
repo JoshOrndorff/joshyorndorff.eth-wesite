@@ -1,4 +1,3 @@
-
 +++
 title = "Google Translate"
 date = "2011-04-17T16:00:00+00:00"

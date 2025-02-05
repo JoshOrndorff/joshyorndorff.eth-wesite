@@ -1,4 +1,3 @@
-
 +++
 title = "No School Friday"
 date = "2010-04-07T02:36:54+00:00"

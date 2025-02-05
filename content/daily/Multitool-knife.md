@@ -1,4 +1,3 @@
-
 +++
 title = "Multitool knife"
 date = "2013-05-16T02:17:49+00:00"

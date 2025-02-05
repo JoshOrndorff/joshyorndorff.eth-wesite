@@ -1,4 +1,3 @@
-
 +++
 title = "Roadside nap"
 date = "2019-03-13T23:29:01+00:00"

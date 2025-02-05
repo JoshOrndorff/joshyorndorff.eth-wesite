@@ -1,4 +1,3 @@
-
 +++
 title = "Autocorrect"
 date = "2014-06-11T20:45:58+00:00"

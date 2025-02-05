@@ -1,4 +1,3 @@
-
 +++
 title = "First welding project"
 date = "2016-01-08T01:09:01+00:00"

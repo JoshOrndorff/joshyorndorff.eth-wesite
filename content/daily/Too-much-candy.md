@@ -1,4 +1,3 @@
-
 +++
 title = "Too much candy"
 date = "2014-10-31T13:55:23+00:00"

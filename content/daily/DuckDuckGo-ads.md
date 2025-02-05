@@ -1,4 +1,3 @@
-
 +++
 title = "DuckDuckGo ads"
 date = "2017-09-06T00:06:13+00:00"

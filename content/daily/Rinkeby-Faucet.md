@@ -1,4 +1,3 @@
-
 +++
 title = "Rinkeby Faucet"
 date = "2017-11-07T18:43:00+00:00"

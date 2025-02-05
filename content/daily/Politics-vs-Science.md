@@ -1,4 +1,3 @@
-
 +++
 title = "Politics vs Science"
 date = "2014-04-12T01:33:20+00:00"

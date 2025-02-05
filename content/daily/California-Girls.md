@@ -1,4 +1,3 @@
-
 +++
 title = "California Girls"
 date = "2012-06-22T04:23:26+00:00"

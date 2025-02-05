@@ -1,4 +1,3 @@
-
 +++
 title = "Wisdom Teeth"
 date = "2010-08-11T00:37:53+00:00"

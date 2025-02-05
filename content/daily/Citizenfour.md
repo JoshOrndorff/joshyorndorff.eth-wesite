@@ -1,4 +1,3 @@
-
 +++
 title = "Citizenfour"
 date = "2014-12-01T05:14:42+00:00"

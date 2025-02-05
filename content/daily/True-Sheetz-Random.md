@@ -1,4 +1,3 @@
-
 +++
 title = "True Sheetz Random"
 date = "2015-07-01T03:54:12+00:00"

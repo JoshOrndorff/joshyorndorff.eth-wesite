@@ -1,4 +1,3 @@
-
 +++
 title = "Pokemon Politics"
 date = "2012-11-05T23:28:43+00:00"

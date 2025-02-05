@@ -1,4 +1,3 @@
-
 +++
 title = "Old Software"
 date = "2010-05-25T12:21:45+00:00"

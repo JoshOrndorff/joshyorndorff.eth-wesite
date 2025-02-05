@@ -1,4 +1,3 @@
-
 +++
 title = "Ringing ears"
 date = "2014-05-28T02:13:09+00:00"

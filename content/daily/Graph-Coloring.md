@@ -1,4 +1,3 @@
-
 +++
 title = "Graph Coloring"
 date = "2017-03-29T00:48:07+00:00"

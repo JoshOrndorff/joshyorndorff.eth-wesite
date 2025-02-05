@@ -1,4 +1,3 @@
-
 +++
 title = "First Firefly"
 date = "2014-05-16T02:24:01+00:00"

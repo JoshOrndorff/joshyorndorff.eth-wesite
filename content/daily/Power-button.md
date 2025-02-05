@@ -1,4 +1,3 @@
-
 +++
 title = "Power button"
 date = "2017-12-11T05:35:05+00:00"

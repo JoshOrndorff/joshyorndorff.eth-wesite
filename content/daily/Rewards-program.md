@@ -1,4 +1,3 @@
-
 +++
 title = "Rewards program"
 date = "2013-08-29T04:12:46+00:00"

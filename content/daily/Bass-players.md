@@ -1,4 +1,3 @@
-
 +++
 title = "Bass players"
 date = "2011-05-16T04:51:35+00:00"

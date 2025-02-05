@@ -1,4 +1,3 @@
-
 +++
 title = "Speed Workouts"
 date = "2011-02-21T02:07:00+00:00"

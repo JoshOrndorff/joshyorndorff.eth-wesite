@@ -1,4 +1,3 @@
-
 +++
 title = "Blockchain school"
 date = "2018-05-17T04:31:43+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Prints won't stick"
 date = "2014-04-25T04:15:00+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "CTY instructor"
 date = "2012-03-09T01:04:58+00:00"

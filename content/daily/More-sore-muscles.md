@@ -1,4 +1,3 @@
-
 +++
 title = "More sore muscles"
 date = "2013-06-18T22:21:02+00:00"

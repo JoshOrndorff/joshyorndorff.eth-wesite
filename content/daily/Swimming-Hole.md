@@ -1,4 +1,3 @@
-
 +++
 title = "Swimming Hole"
 date = "2010-07-30T01:37:39+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Crapitalism"
 date = "2017-05-14T04:11:07+00:00"

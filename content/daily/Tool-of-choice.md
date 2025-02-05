@@ -1,4 +1,3 @@
-
 +++
 title = "Tool of choice"
 date = "2011-10-09T22:06:49+00:00"

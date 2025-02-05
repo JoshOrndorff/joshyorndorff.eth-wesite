@@ -1,4 +1,3 @@
-
 +++
 title = "Bitcoin cash"
 date = "2017-12-20T23:35:41+00:00"

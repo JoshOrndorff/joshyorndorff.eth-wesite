@@ -1,4 +1,3 @@
-
 +++
 title = "Meet of Champions"
 date = "2015-11-15T17:22:04+00:00"

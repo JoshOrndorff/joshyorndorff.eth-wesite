@@ -1,4 +1,3 @@
-
 +++
 title = "Physics Demos"
 date = "2012-11-14T16:12:37+00:00"

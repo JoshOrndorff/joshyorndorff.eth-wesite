@@ -1,4 +1,3 @@
-
 +++
 title = "New Running Shoes"
 date = "2016-01-03T23:01:34+00:00"

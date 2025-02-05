@@ -1,4 +1,3 @@
-
 +++
 title = "Joke about America"
 date = "2010-05-22T20:23:35+00:00"

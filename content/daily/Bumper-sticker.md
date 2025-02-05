@@ -1,4 +1,3 @@
-
 +++
 title = "Bumper sticker"
 date = "2016-08-06T18:53:50+00:00"

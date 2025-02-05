@@ -1,4 +1,3 @@
-
 +++
 title = "Successful Race"
 date = "2016-10-06T01:46:07+00:00"

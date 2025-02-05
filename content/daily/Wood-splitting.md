@@ -1,4 +1,3 @@
-
 +++
 title = "Wood splitting"
 date = "2016-03-02T04:38:47+00:00"

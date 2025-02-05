@@ -1,4 +1,3 @@
-
 +++
 title = "Leaving Evaluation Station"
 date = "2015-07-13T04:48:18+00:00"

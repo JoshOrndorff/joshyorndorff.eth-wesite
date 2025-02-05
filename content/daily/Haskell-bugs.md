@@ -1,4 +1,3 @@
-
 +++
 title = "Haskell bugs"
 date = "2017-05-30T03:56:13+00:00"

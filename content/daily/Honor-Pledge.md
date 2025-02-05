@@ -1,4 +1,3 @@
-
 +++
 title = "Honor Pledge"
 date = "2015-10-26T01:12:27+00:00"

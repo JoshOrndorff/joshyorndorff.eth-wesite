@@ -1,4 +1,3 @@
-
 +++
 title = "Switched to Debian"
 date = "2014-11-09T14:45:36+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Floating Points"
 date = "2013-02-15T20:12:10+00:00"

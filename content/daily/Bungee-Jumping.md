@@ -1,4 +1,3 @@
-
 +++
 title = "Bungee Jumping"
 date = "2010-06-06T10:01:36+00:00"

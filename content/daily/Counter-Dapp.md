@@ -1,4 +1,3 @@
-
 +++
 title = "Counter Dapp"
 date = "2018-04-11T19:02:35+00:00"

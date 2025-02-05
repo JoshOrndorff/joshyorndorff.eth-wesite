@@ -1,4 +1,3 @@
-
 +++
 title = "Productivity"
 date = "2012-09-08T16:00:48+00:00"

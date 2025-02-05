@@ -1,4 +1,3 @@
-
 +++
 title = "Large and In Charge"
 date = "2010-04-14T09:44:03+00:00"

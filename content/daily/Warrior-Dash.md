@@ -1,4 +1,3 @@
-
 +++
 title = "Warrior Dash"
 date = "2012-06-04T20:12:43+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Breaking Even"
 date = "2015-10-04T22:11:41+00:00"

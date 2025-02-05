@@ -1,4 +1,3 @@
-
 +++
 title = "Tomb Sweeping Day"
 date = "2010-04-05T07:47:07+00:00"

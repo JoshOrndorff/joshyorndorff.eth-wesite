@@ -1,4 +1,3 @@
-
 +++
 title = "Indians Game"
 date = "2018-09-21T05:02:57+00:00"

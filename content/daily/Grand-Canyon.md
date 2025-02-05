@@ -1,4 +1,3 @@
-
 +++
 title = "Grand Canyon"
 date = "2010-09-20T06:44:15+00:00"

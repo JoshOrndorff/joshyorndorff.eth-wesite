@@ -1,4 +1,3 @@
-
 +++
 title = "Preemptive thank you"
 date = "2017-05-02T01:48:02+00:00"

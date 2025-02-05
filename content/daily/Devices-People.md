@@ -1,4 +1,3 @@
-
 +++
 title = "Devices : People"
 date = "2018-06-21T02:51:29+00:00"

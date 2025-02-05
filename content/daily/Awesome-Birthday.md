@@ -1,4 +1,3 @@
-
 +++
 title = "Awesome Birthday"
 date = "2015-12-22T17:41:08+00:00"

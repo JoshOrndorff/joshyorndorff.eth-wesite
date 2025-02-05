@@ -1,4 +1,3 @@
-
 +++
 title = "Back to Prismus"
 date = "2014-08-28T21:34:55+00:00"

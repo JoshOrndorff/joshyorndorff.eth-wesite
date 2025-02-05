@@ -1,4 +1,3 @@
-
 +++
 title = "Pattern Matching"
 date = "2018-08-28T18:40:08+00:00"

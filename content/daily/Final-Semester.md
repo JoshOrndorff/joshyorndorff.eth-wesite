@@ -1,4 +1,3 @@
-
 +++
 title = "Final Semester"
 date = "2012-12-06T04:16:39+00:00"

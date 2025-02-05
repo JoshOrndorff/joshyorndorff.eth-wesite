@@ -1,4 +1,3 @@
-
 +++
 title = "Ticket Already?"
 date = "2014-02-01T18:45:50+00:00"

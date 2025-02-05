@@ -1,4 +1,3 @@
-
 +++
 title = "Reset The Net"
 date = "2016-05-11T22:43:42+00:00"

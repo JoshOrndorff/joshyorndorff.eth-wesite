@@ -1,4 +1,3 @@
-
 +++
 title = "Trick Windows"
 date = "2015-10-01T00:26:08+00:00"

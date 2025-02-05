@@ -1,4 +1,3 @@
-
 +++
 title = "December Running"
 date = "2016-12-03T05:00:00+00:00"

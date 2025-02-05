@@ -1,4 +1,3 @@
-
 +++
 title = "Military Gang"
 date = "2016-04-11T04:34:37+00:00"

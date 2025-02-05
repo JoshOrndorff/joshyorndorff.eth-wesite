@@ -1,4 +1,3 @@
-
 +++
 title = "Practical Applications"
 date = "2011-02-27T22:44:00+00:00"

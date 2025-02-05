@@ -1,4 +1,3 @@
-
 +++
 title = "Sunset Telescope"
 date = "2016-11-15T03:45:45+00:00"

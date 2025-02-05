@@ -1,4 +1,3 @@
-
 +++
 title = "Pants Extender"
 date = "2015-10-06T00:46:13+00:00"

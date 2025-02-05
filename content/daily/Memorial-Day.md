@@ -1,4 +1,3 @@
-
 +++
 title = "Memorial Day"
 date = "2011-05-30T23:49:22+00:00"

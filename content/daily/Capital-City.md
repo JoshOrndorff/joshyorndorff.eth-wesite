@@ -1,4 +1,3 @@
-
 +++
 title = "Capital City"
 date = "2013-08-11T11:48:36+00:00"

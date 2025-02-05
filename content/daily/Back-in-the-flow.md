@@ -1,4 +1,3 @@
-
 +++
 title = "Back in the flow"
 date = "2018-11-26T15:07:04+00:00"

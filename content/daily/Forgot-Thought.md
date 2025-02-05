@@ -1,4 +1,3 @@
-
 +++
 title = "Forgot Thought"
 date = "2016-02-21T06:36:46+00:00"

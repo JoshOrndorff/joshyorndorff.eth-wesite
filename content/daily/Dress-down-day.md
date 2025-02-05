@@ -1,4 +1,3 @@
-
 +++
 title = "Dress down day"
 date = "2015-09-22T01:17:44+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Puzzle throwing"
 date = "2015-04-17T08:30:34+00:00"

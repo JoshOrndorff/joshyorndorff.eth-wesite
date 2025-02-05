@@ -1,4 +1,3 @@
-
 +++
 title = "Not St Patrick's Day"
 date = "2016-03-14T05:58:04+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Found my boat"
 date = "2019-09-08T06:09:30+00:00"

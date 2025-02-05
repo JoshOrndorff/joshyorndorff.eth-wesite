@@ -1,4 +1,3 @@
-
 +++
 title = "Switch Browsers"
 date = "2018-06-16T01:41:01+00:00"

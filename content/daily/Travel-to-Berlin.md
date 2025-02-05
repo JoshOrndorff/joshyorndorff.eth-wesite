@@ -1,4 +1,3 @@
-
 +++
 title = "Travel to Berlin"
 date = "2018-09-01T13:44:57+00:00"

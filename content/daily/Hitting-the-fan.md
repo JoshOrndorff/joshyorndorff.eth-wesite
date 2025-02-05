@@ -1,4 +1,3 @@
-
 +++
 title = "Hitting the fan"
 date = "2018-10-25T18:45:21+00:00"

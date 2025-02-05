@@ -1,4 +1,3 @@
-
 +++
 title = "Heart shaped meatloaf"
 date = "2018-02-18T00:11:30+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Bitcoin Paper"
 date = "2019-01-10T01:45:39+00:00"

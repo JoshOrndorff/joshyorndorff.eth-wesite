@@ -1,4 +1,3 @@
-
 +++
 title = "9/11 memorial play"
 date = "2015-10-10T00:06:27+00:00"

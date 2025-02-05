@@ -1,4 +1,3 @@
-
 +++
 title = "Too brilliant to forget"
 date = "2017-04-26T21:17:27+00:00"

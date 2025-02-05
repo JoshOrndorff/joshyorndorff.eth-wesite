@@ -1,4 +1,3 @@
-
 +++
 title = "Golf Cart Day"
 date = "2014-06-22T21:47:07+00:00"

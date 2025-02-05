@@ -1,4 +1,3 @@
-
 +++
 title = "Newton's Cradle Video"
 date = "2014-12-08T20:27:44+00:00"

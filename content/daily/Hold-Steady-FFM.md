@@ -1,4 +1,3 @@
-
 +++
 title = "Hold Steady FFM"
 date = "2011-03-17T05:53:36+00:00"

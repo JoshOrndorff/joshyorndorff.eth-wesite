@@ -1,4 +1,3 @@
-
 +++
 title = "Proper checkout line"
 date = "2016-02-13T20:55:24+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "2019 Racing Season"
 date = "2019-04-08T19:46:11+00:00"

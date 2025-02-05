@@ -1,4 +1,3 @@
-
 +++
 title = "Interstates"
 date = "2010-09-17T20:56:01+00:00"

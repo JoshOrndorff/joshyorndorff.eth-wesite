@@ -1,4 +1,3 @@
-
 +++
 title = "Best year ever"
 date = "2016-01-01T05:12:26+00:00"

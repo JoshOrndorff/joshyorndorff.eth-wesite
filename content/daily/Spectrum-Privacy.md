@@ -1,4 +1,3 @@
-
 +++
 title = "Spectrum Privacy"
 date = "2018-10-01T23:40:50+00:00"

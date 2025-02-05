@@ -1,4 +1,3 @@
-
 +++
 title = "Dropbox symlinks"
 date = "2017-06-12T12:36:15+00:00"

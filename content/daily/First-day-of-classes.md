@@ -1,4 +1,3 @@
-
 +++
 title = "First day of classes"
 date = "2015-09-11T02:23:42+00:00"

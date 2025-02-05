@@ -1,4 +1,3 @@
-
 +++
 title = "Oxford Comma"
 date = "2012-01-24T03:24:30+00:00"

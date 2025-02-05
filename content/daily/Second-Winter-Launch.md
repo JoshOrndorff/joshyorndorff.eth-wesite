@@ -1,4 +1,3 @@
-
 +++
 title = "Second Winter Launch"
 date = "2015-01-15T02:57:27+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Chicken Wings"
 date = "2013-01-28T22:48:40+00:00"

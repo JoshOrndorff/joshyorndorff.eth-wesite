@@ -1,4 +1,3 @@
-
 +++
 title = "Wheelbarrow"
 date = "2014-10-29T14:06:30+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Workin' for the weekend... Kind of"
 date = "2010-06-08T09:04:42+00:00"

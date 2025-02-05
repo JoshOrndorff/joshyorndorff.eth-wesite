@@ -1,4 +1,3 @@
-
 +++
 title = "Laptop Surgery"
 date = "2012-06-23T15:00:23+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Physics Math"
 date = "2011-10-06T05:10:52+00:00"

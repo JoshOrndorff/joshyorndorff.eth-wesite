@@ -1,4 +1,3 @@
-
 +++
 title = "Hanging Boat"
 date = "2016-09-18T00:32:14+00:00"

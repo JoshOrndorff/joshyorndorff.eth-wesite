@@ -1,4 +1,3 @@
-
 +++
 title = "Minesweeper"
 date = "2011-01-03T16:24:51+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Teanslated Meetings"
 date = "2014-05-29T15:54:15+00:00"

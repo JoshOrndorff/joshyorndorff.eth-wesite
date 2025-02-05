@@ -1,4 +1,3 @@
-
 +++
 title = "Word processor"
 date = "2018-07-10T22:08:43+00:00"

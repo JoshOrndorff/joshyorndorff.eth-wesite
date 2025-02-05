@@ -1,4 +1,3 @@
-
 +++
 title = "Friend or Food"
 date = "2010-06-25T08:52:17+00:00"

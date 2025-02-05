@@ -1,4 +1,3 @@
-
 +++
 title = "Console Style"
 date = "2018-05-22T19:35:09+00:00"

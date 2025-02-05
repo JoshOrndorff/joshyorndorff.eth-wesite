@@ -1,4 +1,3 @@
-
 +++
 title = "Windows Hello privacy"
 date = "2019-03-09T04:39:42+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Bike knocked over"
 date = "2015-06-10T10:33:28+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Granola Bars (again)"
 date = "2013-06-13T00:05:17+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Quarter Tattoo"
 date = "2010-10-07T03:08:06+00:00"

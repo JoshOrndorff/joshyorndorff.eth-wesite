@@ -1,4 +1,3 @@
-
 +++
 title = "One Child Policy"
 date = "2010-06-14T11:43:45+00:00"

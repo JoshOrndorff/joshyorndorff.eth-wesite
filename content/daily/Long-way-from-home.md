@@ -1,4 +1,3 @@
-
 +++
 title = "Long way from home"
 date = "2010-03-29T17:56:12+00:00"

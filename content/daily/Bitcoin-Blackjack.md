@@ -1,4 +1,3 @@
-
 +++
 title = "Bitcoin Blackjack"
 date = "2017-02-12T02:21:55+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Longest Week Ever"
 date = "2010-06-12T09:21:08+00:00"

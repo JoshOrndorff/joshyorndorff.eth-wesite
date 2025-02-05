@@ -1,4 +1,3 @@
-
 +++
 title = "One Year Without Rutter"
 date = "2016-09-27T00:28:59+00:00"

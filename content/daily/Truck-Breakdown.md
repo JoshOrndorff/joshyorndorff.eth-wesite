@@ -1,4 +1,3 @@
-
 +++
 title = "Truck Breakdown"
 date = "2017-02-27T03:12:23+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Definition Week"
 date = "2011-05-07T07:00:00+00:00"

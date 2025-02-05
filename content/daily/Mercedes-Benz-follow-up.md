@@ -1,4 +1,3 @@
-
 +++
 title = "Mercedes-Benz follow-up"
 date = "2010-10-03T22:54:21+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Spring Training Sweatshirt"
 date = "2017-03-26T04:10:58+00:00"

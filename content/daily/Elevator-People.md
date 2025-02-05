@@ -1,4 +1,3 @@
-
 +++
 title = "Elevator People"
 date = "2013-02-08T20:43:18+00:00"

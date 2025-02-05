@@ -1,4 +1,3 @@
-
 +++
 title = "Screen Brightness"
 date = "2014-04-30T21:14:05+00:00"

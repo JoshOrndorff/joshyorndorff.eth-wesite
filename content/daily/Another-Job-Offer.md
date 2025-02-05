@@ -1,4 +1,3 @@
-
 +++
 title = "Another Job Offer"
 date = "2010-05-20T10:02:30+00:00"

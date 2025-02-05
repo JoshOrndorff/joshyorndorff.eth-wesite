@@ -1,4 +1,3 @@
-
 +++
 title = "Daydreaming"
 date = "2012-11-10T16:49:51+00:00"

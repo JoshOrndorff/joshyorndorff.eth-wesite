@@ -1,4 +1,3 @@
-
 +++
 title = "Situps Easier"
 date = "2015-10-21T00:19:36+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Construction Again"
 date = "2015-09-04T23:59:28+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Hired Employee"
 date = "2015-03-09T18:15:13+00:00"

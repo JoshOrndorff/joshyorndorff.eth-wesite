@@ -1,4 +1,3 @@
-
 +++
 title = "Established results"
 date = "2012-11-07T18:53:46+00:00"

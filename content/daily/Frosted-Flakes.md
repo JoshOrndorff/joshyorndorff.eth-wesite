@@ -1,4 +1,3 @@
-
 +++
 title = "Frosted Flakes"
 date = "2011-02-09T05:40:56+00:00"

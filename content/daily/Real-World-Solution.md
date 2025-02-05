@@ -1,4 +1,3 @@
-
 +++
 title = "Real World Solution"
 date = "2017-04-25T18:16:23+00:00"

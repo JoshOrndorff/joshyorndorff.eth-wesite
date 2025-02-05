@@ -1,4 +1,3 @@
-
 +++
 title = "Voting explained"
 date = "2015-11-08T05:47:57+00:00"

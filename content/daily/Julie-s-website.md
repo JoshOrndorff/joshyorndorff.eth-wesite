@@ -1,4 +1,3 @@
-
 +++
 title = "Julie's website"
 date = "2018-07-21T16:05:56+00:00"

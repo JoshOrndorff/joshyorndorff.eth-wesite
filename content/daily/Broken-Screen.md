@@ -1,4 +1,3 @@
-
 +++
 title = "Broken Screen"
 date = "2015-08-28T00:34:01+00:00"

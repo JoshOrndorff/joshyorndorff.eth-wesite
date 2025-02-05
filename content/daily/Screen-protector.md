@@ -1,4 +1,3 @@
-
 +++
 title = "Screen protector"
 date = "2013-05-11T04:17:16+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Math Questions"
 date = "2011-04-15T19:18:03+00:00"

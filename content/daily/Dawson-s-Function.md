@@ -1,4 +1,3 @@
-
 +++
 title = "Dawson's Function"
 date = "2013-03-20T04:45:55+00:00"

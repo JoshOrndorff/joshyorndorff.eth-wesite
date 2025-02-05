@@ -1,4 +1,3 @@
-
 +++
 title = "Alaskan Dinner"
 date = "2013-09-14T20:41:09+00:00"

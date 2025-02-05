@@ -1,4 +1,3 @@
-
 +++
 title = "Labs are Done"
 date = "2012-12-01T02:23:55+00:00"

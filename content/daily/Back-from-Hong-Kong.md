@@ -1,4 +1,3 @@
-
 +++
 title = "Back from Hong Kong"
 date = "2010-05-03T14:00:49+00:00"

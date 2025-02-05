@@ -1,4 +1,3 @@
-
 +++
 title = "Guitar lessons"
 date = "2016-09-12T00:40:54+00:00"

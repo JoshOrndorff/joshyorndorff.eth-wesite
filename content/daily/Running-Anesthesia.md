@@ -1,4 +1,3 @@
-
 +++
 title = "Running Anesthesia"
 date = "2016-07-27T03:48:30+00:00"

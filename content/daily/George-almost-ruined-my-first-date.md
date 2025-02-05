@@ -1,4 +1,3 @@
-
 +++
 title = "George almost ruined my first date"
 date = "2010-05-31T12:34:49+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Don't roll your own crypto"
 date = "2017-12-10T05:08:53+00:00"

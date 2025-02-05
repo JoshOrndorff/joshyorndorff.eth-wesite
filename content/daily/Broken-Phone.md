@@ -1,4 +1,3 @@
-
 +++
 title = "Broken Phone"
 date = "2012-11-23T21:32:58+00:00"

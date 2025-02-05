@@ -1,4 +1,3 @@
-
 +++
 title = "Mirrored Dreams"
 date = "2010-12-02T07:38:32+00:00"

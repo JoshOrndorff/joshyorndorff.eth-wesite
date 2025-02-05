@@ -1,4 +1,3 @@
-
 +++
 title = "Predictions"
 date = "2017-12-02T16:39:40+00:00"

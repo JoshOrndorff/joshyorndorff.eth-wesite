@@ -1,4 +1,3 @@
-
 +++
 title = "Babysitting"
 date = "2016-10-04T22:36:38+00:00"

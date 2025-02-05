@@ -1,4 +1,3 @@
-
 +++
 title = "Drupal Sucks"
 date = "2017-06-17T19:13:36+00:00"

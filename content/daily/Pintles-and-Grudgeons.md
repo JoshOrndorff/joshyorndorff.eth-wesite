@@ -1,4 +1,3 @@
-
 +++
 title = "Pintles and Grudgeons"
 date = "2016-08-25T11:12:50+00:00"

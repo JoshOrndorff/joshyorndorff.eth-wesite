@@ -1,4 +1,3 @@
-
 +++
 title = "Winter weather again?"
 date = "2016-03-20T17:53:17+00:00"

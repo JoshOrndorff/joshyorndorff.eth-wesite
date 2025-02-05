@@ -1,4 +1,3 @@
-
 +++
 title = "Gall Bladder again?"
 date = "2016-07-19T03:52:59+00:00"

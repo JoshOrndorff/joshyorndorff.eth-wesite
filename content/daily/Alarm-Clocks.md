@@ -1,4 +1,3 @@
-
 +++
 title = "Alarm Clocks"
 date = "2017-01-04T23:26:14+00:00"

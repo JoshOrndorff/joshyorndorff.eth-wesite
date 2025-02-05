@@ -1,4 +1,3 @@
-
 +++
 title = "First week running"
 date = "2011-01-18T05:42:48+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Stinky Treadmill Guy"
 date = "2015-05-18T19:39:04+00:00"

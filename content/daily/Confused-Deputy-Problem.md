@@ -1,4 +1,3 @@
-
 +++
 title = "Confused Deputy Problem"
 date = "2018-06-01T18:39:28+00:00"

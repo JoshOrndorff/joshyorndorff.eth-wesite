@@ -1,4 +1,3 @@
-
 +++
 title = "Fake security"
 date = "2016-03-23T19:14:13+00:00"

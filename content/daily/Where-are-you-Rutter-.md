@@ -1,4 +1,3 @@
-
 +++
 title = "Where are you Rutter?"
 date = "2016-01-13T22:13:57+00:00"

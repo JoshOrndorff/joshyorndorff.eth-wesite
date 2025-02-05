@@ -1,4 +1,3 @@
-
 +++
 title = "Inverse Eigenvalue Problem"
 date = "2013-03-01T06:17:52+00:00"

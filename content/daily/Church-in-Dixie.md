@@ -1,4 +1,3 @@
-
 +++
 title = "Church in Dixie"
 date = "2011-07-11T02:03:14+00:00"

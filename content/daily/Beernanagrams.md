@@ -1,4 +1,3 @@
-
 +++
 title = "Beernanagrams"
 date = "2010-12-20T13:36:25+00:00"

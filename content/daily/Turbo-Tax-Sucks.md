@@ -1,4 +1,3 @@
-
 +++
 title = "Turbo Tax Sucks"
 date = "2015-04-01T02:16:22+00:00"

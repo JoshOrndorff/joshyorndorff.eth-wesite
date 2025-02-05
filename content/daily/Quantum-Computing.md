@@ -1,4 +1,3 @@
-
 +++
 title = "Quantum Computing"
 date = "2016-05-18T04:29:27+00:00"

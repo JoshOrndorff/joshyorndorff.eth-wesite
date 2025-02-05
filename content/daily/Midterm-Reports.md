@@ -1,4 +1,3 @@
-
 +++
 title = "Midterm Reports"
 date = "2014-04-16T02:38:44+00:00"

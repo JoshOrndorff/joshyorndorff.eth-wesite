@@ -1,4 +1,3 @@
-
 +++
 title = "Pink Sharpie"
 date = "2016-07-22T04:44:31+00:00"

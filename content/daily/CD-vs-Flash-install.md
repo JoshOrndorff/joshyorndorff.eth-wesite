@@ -1,4 +1,3 @@
-
 +++
 title = "CD vs Flash install"
 date = "2013-01-30T00:37:29+00:00"

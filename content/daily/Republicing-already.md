@@ -1,4 +1,3 @@
-
 +++
 title = "Republicing already"
 date = "2015-12-11T03:10:10+00:00"

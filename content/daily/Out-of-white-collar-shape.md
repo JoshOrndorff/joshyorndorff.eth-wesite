@@ -1,4 +1,3 @@
-
 +++
 title = "Out of (white collar) shape"
 date = "2014-01-08T02:12:33+00:00"

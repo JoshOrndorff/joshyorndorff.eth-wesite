@@ -1,4 +1,3 @@
-
 +++
 title = "Philip Brocoum"
 date = "2011-06-20T07:21:34+00:00"

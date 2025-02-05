@@ -1,4 +1,3 @@
-
 +++
 title = "Phone blogging"
 date = "2013-05-13T06:19:29+00:00"

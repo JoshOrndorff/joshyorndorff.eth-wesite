@@ -1,4 +1,3 @@
-
 +++
 title = "Days are getting shorter"
 date = "2013-09-25T07:24:27+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Biological Emergency"
 date = "2012-03-05T05:49:10+00:00"

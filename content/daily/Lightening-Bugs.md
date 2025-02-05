@@ -1,4 +1,3 @@
-
 +++
 title = "Lightening Bugs"
 date = "2011-06-27T03:45:22+00:00"

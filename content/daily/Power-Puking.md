@@ -1,4 +1,3 @@
-
 +++
 title = "Power Puking"
 date = "2014-04-06T17:55:49+00:00"

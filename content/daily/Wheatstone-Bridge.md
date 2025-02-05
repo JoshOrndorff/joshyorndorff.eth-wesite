@@ -1,4 +1,3 @@
-
 +++
 title = "Wheatstone Bridge"
 date = "2012-10-22T18:10:03+00:00"

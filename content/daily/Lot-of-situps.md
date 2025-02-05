@@ -1,4 +1,3 @@
-
 +++
 title = "Lot of situps"
 date = "2016-03-12T00:54:56+00:00"

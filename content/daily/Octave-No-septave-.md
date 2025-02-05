@@ -1,4 +1,3 @@
-
 +++
 title = "Octave? No; septave."
 date = "2012-10-06T21:41:56+00:00"

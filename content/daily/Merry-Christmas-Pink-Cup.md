@@ -1,4 +1,3 @@
-
 +++
 title = "Merry Christmas Pink Cup"
 date = "2014-12-18T17:48:16+00:00"

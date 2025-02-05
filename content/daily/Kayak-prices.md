@@ -1,4 +1,3 @@
-
 +++
 title = "Kayak prices"
 date = "2013-01-08T01:07:31+00:00"

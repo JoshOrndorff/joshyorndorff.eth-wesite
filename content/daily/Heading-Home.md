@@ -1,4 +1,3 @@
-
 +++
 title = "Heading Home"
 date = "2010-06-30T06:56:00+00:00"

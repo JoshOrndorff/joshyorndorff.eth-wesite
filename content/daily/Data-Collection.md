@@ -1,4 +1,3 @@
-
 +++
 title = "Data Collection"
 date = "2018-03-01T21:59:35+00:00"

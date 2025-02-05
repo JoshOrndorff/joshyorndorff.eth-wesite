@@ -1,4 +1,3 @@
-
 +++
 title = "Selling me out"
 date = "2015-10-21T23:45:24+00:00"

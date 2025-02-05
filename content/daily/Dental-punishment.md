@@ -1,4 +1,3 @@
-
 +++
 title = "Dental punishment"
 date = "2016-01-27T01:55:19+00:00"

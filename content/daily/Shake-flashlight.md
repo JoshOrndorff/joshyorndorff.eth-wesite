@@ -1,4 +1,3 @@
-
 +++
 title = "Shake flashlight"
 date = "2018-03-17T03:31:14+00:00"

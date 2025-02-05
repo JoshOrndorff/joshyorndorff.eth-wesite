@@ -1,4 +1,3 @@
-
 +++
 title = "New To-Do List"
 date = "2010-06-21T09:03:20+00:00"

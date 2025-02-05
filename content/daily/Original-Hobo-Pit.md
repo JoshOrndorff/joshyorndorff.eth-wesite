@@ -1,4 +1,3 @@
-
 +++
 title = "Original Hobo Pit"
 date = "2015-05-11T05:25:05+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Multitasking"
 date = "2011-04-30T06:23:20+00:00"

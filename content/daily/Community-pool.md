@@ -1,4 +1,3 @@
-
 +++
 title = "Community pool"
 date = "2016-05-29T06:20:38+00:00"

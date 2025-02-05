@@ -1,4 +1,3 @@
-
 +++
 title = "Republic Update"
 date = "2013-02-05T19:18:41+00:00"

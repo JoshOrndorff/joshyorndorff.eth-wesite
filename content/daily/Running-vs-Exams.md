@@ -1,4 +1,3 @@
-
 +++
 title = "Running vs Exams"
 date = "2012-04-17T02:49:17+00:00"

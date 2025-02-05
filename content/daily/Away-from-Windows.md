@@ -1,4 +1,3 @@
-
 +++
 title = "Away from Windows"
 date = "2014-03-04T01:00:58+00:00"

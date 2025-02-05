@@ -1,4 +1,3 @@
-
 +++
 title = "Back to Business"
 date = "2012-03-13T04:26:40+00:00"

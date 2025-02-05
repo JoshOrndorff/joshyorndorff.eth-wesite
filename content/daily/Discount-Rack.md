@@ -1,4 +1,3 @@
-
 +++
 title = "Discount Rack"
 date = "2010-04-21T14:18:05+00:00"

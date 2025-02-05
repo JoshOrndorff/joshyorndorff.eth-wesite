@@ -1,4 +1,3 @@
-
 +++
 title = "Microaggression"
 date = "2011-08-18T14:29:20+00:00"

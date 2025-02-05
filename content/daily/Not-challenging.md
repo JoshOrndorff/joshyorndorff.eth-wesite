@@ -1,4 +1,3 @@
-
 +++
 title = "Not challenging"
 date = "2015-07-19T20:09:06+00:00"

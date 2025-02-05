@@ -1,4 +1,3 @@
-
 +++
 title = "Consider loggers"
 date = "2015-03-31T05:47:57+00:00"

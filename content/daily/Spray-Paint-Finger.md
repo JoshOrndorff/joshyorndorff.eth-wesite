@@ -1,4 +1,3 @@
-
 +++
 title = "Spray Paint Finger"
 date = "2016-09-16T01:36:24+00:00"

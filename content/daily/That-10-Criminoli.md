@@ -1,4 +1,3 @@
-
 +++
 title = "That 10 Criminoli"
 date = "2015-09-08T18:35:32+00:00"

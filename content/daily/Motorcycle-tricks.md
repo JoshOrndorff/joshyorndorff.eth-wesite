@@ -1,4 +1,3 @@
-
 +++
 title = "Motorcycle tricks"
 date = "2012-08-09T17:53:17+00:00"

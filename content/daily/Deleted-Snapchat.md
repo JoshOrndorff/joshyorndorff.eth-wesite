@@ -1,4 +1,3 @@
-
 +++
 title = "Deleted Snapchat"
 date = "2014-12-06T04:34:28+00:00"

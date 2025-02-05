@@ -1,4 +1,3 @@
-
 +++
 title = "First Session"
 date = "2012-07-13T21:49:10+00:00"

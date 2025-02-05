@@ -1,4 +1,3 @@
-
 +++
 title = "Bicycle Tire"
 date = "2012-12-30T04:31:51+00:00"

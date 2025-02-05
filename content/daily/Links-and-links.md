@@ -1,4 +1,3 @@
-
 +++
 title = "Links and links"
 date = "2012-12-10T01:09:04+00:00"

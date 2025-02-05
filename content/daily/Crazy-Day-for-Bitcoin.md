@@ -1,4 +1,3 @@
-
 +++
 title = "Crazy Day for Bitcoin"
 date = "2017-05-26T03:46:23+00:00"

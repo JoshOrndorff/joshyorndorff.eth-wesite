@@ -1,4 +1,3 @@
-
 +++
 title = "Absent Minded"
 date = "2012-03-31T19:21:54+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Training Camp"
 date = "2018-02-08T06:04:37+00:00"

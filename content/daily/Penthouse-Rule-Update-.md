@@ -1,4 +1,3 @@
-
 +++
 title = "Penthouse Rule Update?"
 date = "2017-07-22T21:37:22+00:00"

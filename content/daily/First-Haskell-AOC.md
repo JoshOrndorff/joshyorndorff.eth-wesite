@@ -1,4 +1,3 @@
-
 +++
 title = "First Haskell AOC"
 date = "2018-12-01T06:44:15+00:00"

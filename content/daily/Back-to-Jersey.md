@@ -1,4 +1,3 @@
-
 +++
 title = "Back to Jersey"
 date = "2016-08-21T03:56:58+00:00"

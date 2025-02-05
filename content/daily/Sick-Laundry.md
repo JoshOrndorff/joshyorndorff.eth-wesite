@@ -1,4 +1,3 @@
-
 +++
 title = "Sick Laundry"
 date = "2019-11-11T01:14:55+00:00"

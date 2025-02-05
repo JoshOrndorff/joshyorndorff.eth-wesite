@@ -1,4 +1,3 @@
-
 +++
 title = "Wolfram Alpha Pro"
 date = "2013-03-22T02:54:02+00:00"

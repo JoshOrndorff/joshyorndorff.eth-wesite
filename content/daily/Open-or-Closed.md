@@ -1,4 +1,3 @@
-
 +++
 title = "Open or Closed"
 date = "2017-09-03T22:15:40+00:00"

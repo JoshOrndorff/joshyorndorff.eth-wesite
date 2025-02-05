@@ -1,4 +1,3 @@
-
 +++
 title = "Crypto winter"
 date = "2018-11-20T03:43:59+00:00"

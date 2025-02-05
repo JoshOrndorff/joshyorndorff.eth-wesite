@@ -1,4 +1,3 @@
-
 +++
 title = "Ticketmaster"
 date = "2014-01-21T18:30:32+00:00"

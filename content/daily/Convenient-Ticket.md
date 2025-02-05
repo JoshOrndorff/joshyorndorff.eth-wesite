@@ -1,4 +1,3 @@
-
 +++
 title = "Convenient Ticket"
 date = "2012-05-29T19:14:54+00:00"

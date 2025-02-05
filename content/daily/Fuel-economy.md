@@ -1,4 +1,3 @@
-
 +++
 title = "Fuel economy"
 date = "2015-09-15T22:39:38+00:00"

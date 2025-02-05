@@ -1,4 +1,3 @@
-
 +++
 title = "Christmas Tree Dragging"
 date = "2015-01-10T01:33:35+00:00"

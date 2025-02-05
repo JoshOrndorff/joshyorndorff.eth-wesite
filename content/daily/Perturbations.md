@@ -1,4 +1,3 @@
-
 +++
 title = "Perturbations"
 date = "2012-09-21T03:39:20+00:00"

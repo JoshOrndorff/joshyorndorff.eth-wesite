@@ -1,4 +1,3 @@
-
 +++
 title = "Back from Korea"
 date = "2018-12-17T00:16:54+00:00"

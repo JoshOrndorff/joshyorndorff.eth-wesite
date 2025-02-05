@@ -1,4 +1,3 @@
-
 +++
 title = "Wayne Orndorff"
 date = "2011-06-19T07:29:29+00:00"

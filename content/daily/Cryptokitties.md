@@ -1,4 +1,3 @@
-
 +++
 title = "Cryptokitties"
 date = "2017-12-05T00:04:21+00:00"

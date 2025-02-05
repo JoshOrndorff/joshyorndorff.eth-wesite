@@ -1,4 +1,3 @@
-
 +++
 title = "Recurring Dreams"
 date = "2015-10-09T03:06:57+00:00"

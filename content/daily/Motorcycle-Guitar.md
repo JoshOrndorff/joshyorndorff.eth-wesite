@@ -1,4 +1,3 @@
-
 +++
 title = "Motorcycle Guitar"
 date = "2010-12-13T09:21:18+00:00"

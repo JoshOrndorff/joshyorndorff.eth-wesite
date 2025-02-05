@@ -1,4 +1,3 @@
-
 +++
 title = "Substrate Collaborative Learning"
 date = "2019-05-30T14:49:48+00:00"

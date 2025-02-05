@@ -1,4 +1,3 @@
-
 +++
 title = "Vi's Sound Video"
 date = "2011-10-23T20:20:11+00:00"

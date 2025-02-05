@@ -1,4 +1,3 @@
-
 +++
 title = "Transcendentalist"
 date = "2016-01-07T03:32:04+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Cold in Berlin"
 date = "2019-05-07T15:58:02+00:00"

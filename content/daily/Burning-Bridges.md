@@ -1,4 +1,3 @@
-
 +++
 title = "Burning Bridges"
 date = "2011-06-16T21:25:50+00:00"

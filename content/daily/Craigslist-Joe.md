@@ -1,4 +1,3 @@
-
 +++
 title = "Craigslist Joe"
 date = "2013-01-02T22:41:21+00:00"

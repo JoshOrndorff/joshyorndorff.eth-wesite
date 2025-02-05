@@ -1,4 +1,3 @@
-
 +++
 title = "Updates Coming"
 date = "2017-11-14T03:42:42+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Good inflation"
 date = "2015-10-27T00:57:51+00:00"

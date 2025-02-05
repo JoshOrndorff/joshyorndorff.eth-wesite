@@ -1,4 +1,3 @@
-
 +++
 title = "Wet dream journal"
 date = "2017-01-25T23:58:23+00:00"

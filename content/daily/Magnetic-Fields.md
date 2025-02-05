@@ -1,4 +1,3 @@
-
 +++
 title = "Magnetic Fields"
 date = "2011-12-08T21:39:08+00:00"

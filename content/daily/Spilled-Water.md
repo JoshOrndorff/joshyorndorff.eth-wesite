@@ -1,4 +1,3 @@
-
 +++
 title = "Spilled Water"
 date = "2012-10-09T01:12:17+00:00"

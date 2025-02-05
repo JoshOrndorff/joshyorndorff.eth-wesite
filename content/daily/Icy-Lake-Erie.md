@@ -1,4 +1,3 @@
-
 +++
 title = "Icy Lake Erie"
 date = "2019-01-23T16:05:48+00:00"

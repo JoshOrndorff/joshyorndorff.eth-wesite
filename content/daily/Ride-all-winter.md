@@ -1,4 +1,3 @@
-
 +++
 title = "Ride all winter"
 date = "2011-12-20T03:57:10+00:00"

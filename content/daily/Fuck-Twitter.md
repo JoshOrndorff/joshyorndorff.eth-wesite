@@ -1,4 +1,3 @@
-
 +++
 title = "Fuck Twitter"
 date = "2018-02-21T04:41:56+00:00"

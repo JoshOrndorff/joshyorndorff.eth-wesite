@@ -1,4 +1,3 @@
-
 +++
 title = "Airspeed Indicator"
 date = "2014-02-17T22:01:05+00:00"

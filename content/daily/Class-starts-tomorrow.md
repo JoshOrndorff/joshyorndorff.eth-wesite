@@ -1,4 +1,3 @@
-
 +++
 title = "Class starts tomorrow"
 date = "2016-06-27T04:07:34+00:00"

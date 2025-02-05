@@ -1,4 +1,3 @@
-
 +++
 title = "Berlin Planning"
 date = "2019-04-19T19:41:57+00:00"

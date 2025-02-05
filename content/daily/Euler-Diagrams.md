@@ -1,4 +1,3 @@
-
 +++
 title = "Euler Diagrams"
 date = "2016-11-06T04:12:30+00:00"

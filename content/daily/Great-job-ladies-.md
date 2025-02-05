@@ -1,4 +1,3 @@
-
 +++
 title = "Great job, ladies!"
 date = "2016-08-31T00:24:56+00:00"

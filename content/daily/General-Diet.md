@@ -1,4 +1,3 @@
-
 +++
 title = "General Diet"
 date = "2016-02-09T00:46:42+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Michigan Left"
 date = "2010-03-24T09:43:04+00:00"

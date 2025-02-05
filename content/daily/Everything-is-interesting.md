@@ -1,4 +1,3 @@
-
 +++
 title = "Everything is interesting"
 date = "2017-02-23T21:29:04+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Famous in Korea"
 date = "2018-12-19T12:32:30+00:00"

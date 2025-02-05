@@ -1,4 +1,3 @@
-
 +++
 title = "Sore already"
 date = "2015-11-03T23:32:33+00:00"

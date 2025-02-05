@@ -1,4 +1,3 @@
-
 +++
 title = "Switched over"
 date = "2016-12-31T02:56:36+00:00"

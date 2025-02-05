@@ -1,4 +1,3 @@
-
 +++
 title = "Big Chimichanga"
 date = "2013-11-18T04:47:41+00:00"

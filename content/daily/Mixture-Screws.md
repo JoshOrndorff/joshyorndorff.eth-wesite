@@ -1,4 +1,3 @@
-
 +++
 title = "Mixture Screws"
 date = "2011-08-11T05:49:10+00:00"

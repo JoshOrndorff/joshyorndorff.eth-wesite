@@ -1,4 +1,3 @@
-
 +++
 title = "Watching students learn"
 date = "2015-11-05T03:28:28+00:00"

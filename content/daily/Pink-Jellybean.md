@@ -1,4 +1,3 @@
-
 +++
 title = "Pink Jellybean"
 date = "2014-05-10T19:56:17+00:00"

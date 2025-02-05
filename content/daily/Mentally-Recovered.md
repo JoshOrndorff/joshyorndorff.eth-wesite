@@ -1,4 +1,3 @@
-
 +++
 title = "Mentally Recovered"
 date = "2013-03-10T16:23:07+00:00"

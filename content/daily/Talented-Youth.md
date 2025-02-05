@@ -1,4 +1,3 @@
-
 +++
 title = "Talented Youth"
 date = "2012-06-27T04:10:18+00:00"

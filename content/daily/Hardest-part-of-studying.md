@@ -1,4 +1,3 @@
-
 +++
 title = "Hardest part of studying"
 date = "2017-09-26T02:55:55+00:00"

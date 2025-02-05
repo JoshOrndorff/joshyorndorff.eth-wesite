@@ -1,4 +1,3 @@
-
 +++
 title = "New toothbrush"
 date = "2013-05-30T02:42:08+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Flying Weather"
 date = "2013-01-31T18:18:00+00:00"

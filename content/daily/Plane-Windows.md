@@ -1,4 +1,3 @@
-
 +++
 title = "Plane Windows"
 date = "2014-03-17T22:24:37+00:00"

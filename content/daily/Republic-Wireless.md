@@ -1,4 +1,3 @@
-
 +++
 title = "Republic Wireless"
 date = "2012-11-27T23:06:52+00:00"

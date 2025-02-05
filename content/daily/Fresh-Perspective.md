@@ -1,4 +1,3 @@
-
 +++
 title = "Fresh Perspective"
 date = "2017-09-02T04:08:22+00:00"

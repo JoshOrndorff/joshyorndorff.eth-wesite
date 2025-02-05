@@ -1,4 +1,3 @@
-
 +++
 title = "Goodbye server"
 date = "2018-01-18T22:43:15+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Waterbottle"
 date = "2016-08-28T19:14:44+00:00"

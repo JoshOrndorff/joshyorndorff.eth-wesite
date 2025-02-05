@@ -1,4 +1,3 @@
-
 +++
 title = "Cumberland Island Ferry"
 date = "2011-08-19T18:12:01+00:00"

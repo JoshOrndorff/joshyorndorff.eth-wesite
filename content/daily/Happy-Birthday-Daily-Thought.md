@@ -1,4 +1,3 @@
-
 +++
 title = "Happy Birthday Daily Thought"
 date = "2011-03-25T07:00:00+00:00"

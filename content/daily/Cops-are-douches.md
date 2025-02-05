@@ -1,4 +1,3 @@
-
 +++
 title = "Cops are douches"
 date = "2015-09-23T23:39:35+00:00"

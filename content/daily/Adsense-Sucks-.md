@@ -1,4 +1,3 @@
-
 +++
 title = "Adsense Sucks!"
 date = "2014-09-01T19:52:52+00:00"

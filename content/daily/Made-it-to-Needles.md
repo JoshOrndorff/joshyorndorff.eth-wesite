@@ -1,4 +1,3 @@
-
 +++
 title = "Made it to Needles"
 date = "2013-12-01T09:55:29+00:00"

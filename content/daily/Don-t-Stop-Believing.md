@@ -1,4 +1,3 @@
-
 +++
 title = "Don't Stop Believing"
 date = "2015-02-17T17:38:39+00:00"

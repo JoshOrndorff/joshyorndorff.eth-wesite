@@ -1,4 +1,3 @@
-
 +++
 title = "Hard day teaching"
 date = "2017-03-06T22:31:56+00:00"

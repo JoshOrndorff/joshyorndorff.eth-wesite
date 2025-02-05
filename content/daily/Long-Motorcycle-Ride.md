@@ -1,4 +1,3 @@
-
 +++
 title = "Long Motorcycle Ride"
 date = "2010-07-18T02:36:38+00:00"

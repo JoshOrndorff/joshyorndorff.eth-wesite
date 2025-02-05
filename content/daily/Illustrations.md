@@ -1,4 +1,3 @@
-
 +++
 title = "Illustrations"
 date = "2018-06-08T23:43:41+00:00"

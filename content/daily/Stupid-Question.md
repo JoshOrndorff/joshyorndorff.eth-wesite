@@ -1,4 +1,3 @@
-
 +++
 title = "Stupid Question"
 date = "2011-07-24T05:47:05+00:00"

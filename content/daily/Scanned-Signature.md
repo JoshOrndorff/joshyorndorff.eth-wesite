@@ -1,4 +1,3 @@
-
 +++
 title = "Scanned Signature"
 date = "2014-01-26T17:47:41+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Individual Authentication"
 date = "2018-05-29T20:58:39+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Commercial software"
 date = "2015-03-23T02:36:07+00:00"

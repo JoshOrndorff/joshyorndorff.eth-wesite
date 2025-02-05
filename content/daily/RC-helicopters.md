@@ -1,4 +1,3 @@
-
 +++
 title = "RC helicopters"
 date = "2014-04-02T01:20:58+00:00"

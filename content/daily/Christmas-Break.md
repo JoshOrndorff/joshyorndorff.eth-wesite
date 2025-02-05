@@ -1,4 +1,3 @@
-
 +++
 title = "Christmas Break"
 date = "2010-12-16T04:03:56+00:00"

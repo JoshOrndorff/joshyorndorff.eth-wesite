@@ -1,4 +1,3 @@
-
 +++
 title = "TV Priorities"
 date = "2011-02-07T08:21:41+00:00"

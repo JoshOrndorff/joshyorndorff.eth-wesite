@@ -1,4 +1,3 @@
-
 +++
 title = "Thanks for visiting"
 date = "2015-07-05T23:18:30+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Spinning Girl"
 date = "2012-09-06T15:04:21+00:00"

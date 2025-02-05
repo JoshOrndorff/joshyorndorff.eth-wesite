@@ -1,4 +1,3 @@
-
 +++
 title = "Upside down gloves"
 date = "2017-07-17T20:40:38+00:00"

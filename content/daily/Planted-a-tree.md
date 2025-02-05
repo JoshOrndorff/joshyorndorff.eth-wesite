@@ -1,4 +1,3 @@
-
 +++
 title = "Planted a tree"
 date = "2019-06-14T02:08:31+00:00"

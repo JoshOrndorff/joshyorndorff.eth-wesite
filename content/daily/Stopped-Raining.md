@@ -1,4 +1,3 @@
-
 +++
 title = "Stopped Raining"
 date = "2010-10-24T03:50:25+00:00"

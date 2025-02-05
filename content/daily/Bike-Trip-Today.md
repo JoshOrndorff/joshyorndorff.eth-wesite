@@ -1,4 +1,3 @@
-
 +++
 title = "Bike Trip Today"
 date = "2010-07-10T14:03:07+00:00"

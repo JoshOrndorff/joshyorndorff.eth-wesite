@@ -1,4 +1,3 @@
-
 +++
 title = "Pennsylvania scenery"
 date = "2013-06-26T19:34:38+00:00"

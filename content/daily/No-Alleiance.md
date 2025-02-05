@@ -1,4 +1,3 @@
-
 +++
 title = "No Alleiance"
 date = "2017-03-09T12:11:27+00:00"

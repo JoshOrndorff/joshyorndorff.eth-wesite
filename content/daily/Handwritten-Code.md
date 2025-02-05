@@ -1,4 +1,3 @@
-
 +++
 title = "Handwritten Code"
 date = "2017-01-24T02:27:09+00:00"

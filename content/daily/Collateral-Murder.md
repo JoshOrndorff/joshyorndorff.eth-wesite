@@ -1,4 +1,3 @@
-
 +++
 title = "Collateral Murder"
 date = "2011-01-14T05:27:44+00:00"

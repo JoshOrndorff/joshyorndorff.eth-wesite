@@ -1,4 +1,3 @@
-
 +++
 title = "Big Breakfast"
 date = "2013-03-17T20:58:10+00:00"

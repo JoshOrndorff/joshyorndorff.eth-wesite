@@ -1,4 +1,3 @@
-
 +++
 title = "Git installer"
 date = "2014-04-03T20:10:29+00:00"

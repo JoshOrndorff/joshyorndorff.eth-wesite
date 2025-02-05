@@ -1,4 +1,3 @@
-
 +++
 title = "It just works"
 date = "2014-05-12T15:15:08+00:00"

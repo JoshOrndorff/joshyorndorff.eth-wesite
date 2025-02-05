@@ -1,4 +1,3 @@
-
 +++
 title = "Price is Right"
 date = "2011-04-26T06:20:14+00:00"

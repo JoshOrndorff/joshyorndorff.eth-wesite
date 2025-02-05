@@ -1,4 +1,3 @@
-
 +++
 title = "Which one is on"
 date = "2016-09-30T11:40:42+00:00"

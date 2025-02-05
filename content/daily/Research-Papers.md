@@ -1,4 +1,3 @@
-
 +++
 title = "Research Papers"
 date = "2013-02-27T02:56:35+00:00"

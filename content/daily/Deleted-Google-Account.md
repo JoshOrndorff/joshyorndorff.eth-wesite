@@ -1,4 +1,3 @@
-
 +++
 title = "Deleted Google Account"
 date = "2015-12-30T06:02:18+00:00"

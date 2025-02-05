@@ -1,4 +1,3 @@
-
 +++
 title = "100 Days to Graduation"
 date = "2017-03-03T13:33:44+00:00"

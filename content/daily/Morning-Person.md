@@ -1,4 +1,3 @@
-
 +++
 title = "Morning Person"
 date = "2014-05-09T13:24:00+00:00"

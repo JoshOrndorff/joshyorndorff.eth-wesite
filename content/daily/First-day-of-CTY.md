@@ -1,4 +1,3 @@
-
 +++
 title = "First day of CTY"
 date = "2012-06-25T19:09:02+00:00"

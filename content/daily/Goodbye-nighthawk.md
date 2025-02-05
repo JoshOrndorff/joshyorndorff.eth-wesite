@@ -1,4 +1,3 @@
-
 +++
 title = "Goodbye nighthawk"
 date = "2019-05-28T21:06:09+00:00"

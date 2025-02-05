@@ -1,4 +1,3 @@
-
 +++
 title = "Checking Out"
 date = "2011-06-01T04:39:20+00:00"

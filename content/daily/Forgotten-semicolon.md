@@ -1,4 +1,3 @@
-
 +++
 title = "Forgotten semicolon"
 date = "2019-05-02T16:33:18+00:00"

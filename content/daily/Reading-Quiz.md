@@ -1,4 +1,3 @@
-
 +++
 title = "Reading Quiz"
 date = "2014-03-05T02:38:35+00:00"

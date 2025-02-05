@@ -1,4 +1,3 @@
-
 +++
 title = "Nate, on carbs"
 date = "2011-03-23T04:38:22+00:00"

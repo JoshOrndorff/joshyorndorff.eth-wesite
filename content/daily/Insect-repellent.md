@@ -1,4 +1,3 @@
-
 +++
 title = "Insect repellent"
 date = "2013-05-26T02:05:10+00:00"

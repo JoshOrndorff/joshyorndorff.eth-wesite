@@ -1,4 +1,3 @@
-
 +++
 title = "Ruptured Ear Drum"
 date = "2019-05-31T22:13:57+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Rock in my shoe"
 date = "2017-04-07T03:08:55+00:00"

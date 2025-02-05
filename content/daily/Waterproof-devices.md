@@ -1,4 +1,3 @@
-
 +++
 title = "Waterproof devices"
 date = "2018-05-31T15:40:16+00:00"

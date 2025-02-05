@@ -1,4 +1,3 @@
-
 +++
 title = "Bye New Jersey"
 date = "2018-02-06T05:30:13+00:00"

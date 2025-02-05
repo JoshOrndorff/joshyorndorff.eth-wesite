@@ -1,4 +1,3 @@
-
 +++
 title = "Nate and Rachel"
 date = "2014-06-15T17:44:57+00:00"

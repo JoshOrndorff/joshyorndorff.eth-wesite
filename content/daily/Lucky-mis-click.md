@@ -1,4 +1,3 @@
-
 +++
 title = "Lucky mis-click"
 date = "2018-02-11T01:41:07+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Flight Booked"
 date = "2010-06-02T08:57:48+00:00"

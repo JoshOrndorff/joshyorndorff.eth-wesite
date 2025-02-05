@@ -1,4 +1,3 @@
-
 +++
 title = "Two Weeks Notice"
 date = "2011-02-10T10:29:19+00:00"

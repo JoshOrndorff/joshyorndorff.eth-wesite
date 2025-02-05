@@ -1,4 +1,3 @@
-
 +++
 title = "Existentialism"
 date = "2015-10-29T22:23:40+00:00"

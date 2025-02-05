@@ -1,4 +1,3 @@
-
 +++
 title = "White board dependence"
 date = "2016-06-29T02:56:48+00:00"

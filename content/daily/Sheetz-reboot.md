@@ -1,4 +1,3 @@
-
 +++
 title = "Sheetz reboot"
 date = "2016-08-01T04:47:35+00:00"

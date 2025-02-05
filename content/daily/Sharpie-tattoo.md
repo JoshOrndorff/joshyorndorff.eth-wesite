@@ -1,4 +1,3 @@
-
 +++
 title = "Sharpie tattoo"
 date = "2018-07-02T01:18:50+00:00"

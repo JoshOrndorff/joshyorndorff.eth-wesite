@@ -1,4 +1,3 @@
-
 +++
 title = "Punctuation"
 date = "2011-05-30T05:33:00+00:00"

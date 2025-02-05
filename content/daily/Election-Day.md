@@ -1,4 +1,3 @@
-
 +++
 title = "Election Day"
 date = "2010-11-03T05:23:59+00:00"

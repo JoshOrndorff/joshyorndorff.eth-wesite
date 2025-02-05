@@ -1,4 +1,3 @@
-
 +++
 title = "Confusing TODO item"
 date = "2018-12-20T15:14:29+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Selling Everything"
 date = "2010-08-14T18:09:00+00:00"

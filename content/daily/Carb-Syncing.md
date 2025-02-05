@@ -1,4 +1,3 @@
-
 +++
 title = "Carb Syncing"
 date = "2011-08-28T04:42:27+00:00"

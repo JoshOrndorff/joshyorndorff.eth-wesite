@@ -1,4 +1,3 @@
-
 +++
 title = "Talk to Strangers"
 date = "2013-03-08T23:38:00+00:00"

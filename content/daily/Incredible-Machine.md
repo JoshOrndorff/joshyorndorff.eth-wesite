@@ -1,4 +1,3 @@
-
 +++
 title = "Incredible Machine"
 date = "2012-05-04T19:54:23+00:00"

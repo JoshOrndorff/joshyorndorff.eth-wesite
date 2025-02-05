@@ -1,4 +1,3 @@
-
 +++
 title = "Rookie Publisher"
 date = "2012-12-15T19:36:19+00:00"

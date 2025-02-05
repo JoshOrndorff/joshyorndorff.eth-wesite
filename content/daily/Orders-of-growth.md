@@ -1,4 +1,3 @@
-
 +++
 title = "Orders of growth"
 date = "2017-02-04T23:59:24+00:00"

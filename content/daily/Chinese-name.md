@@ -1,4 +1,3 @@
-
 +++
 title = "Chinese name"
 date = "2010-03-31T09:42:09+00:00"

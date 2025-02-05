@@ -1,4 +1,3 @@
-
 +++
 title = "Leaf catching"
 date = "2017-10-20T04:48:29+00:00"

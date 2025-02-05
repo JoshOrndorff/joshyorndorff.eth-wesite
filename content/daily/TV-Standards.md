@@ -1,4 +1,3 @@
-
 +++
 title = "TV Standards"
 date = "2017-03-27T23:49:52+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Ubuntu Countdown"
 date = "2010-10-09T21:48:25+00:00"

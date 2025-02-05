@@ -1,4 +1,3 @@
-
 +++
 title = "Teaching Sucks"
 date = "2010-05-11T08:59:17+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Just the month!?"
 date = "2018-04-04T01:48:13+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Pretty Printing"
 date = "2018-06-15T04:55:50+00:00"

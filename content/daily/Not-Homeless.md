@@ -1,4 +1,3 @@
-
 +++
 title = "Not Homeless"
 date = "2012-09-27T00:05:56+00:00"

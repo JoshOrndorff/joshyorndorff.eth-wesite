@@ -1,4 +1,3 @@
-
 +++
 title = "Running for the Bus"
 date = "2013-02-19T19:04:02+00:00"

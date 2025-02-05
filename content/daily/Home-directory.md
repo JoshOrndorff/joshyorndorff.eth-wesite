@@ -1,4 +1,3 @@
-
 +++
 title = "Home directory"
 date = "2014-08-11T22:24:15+00:00"

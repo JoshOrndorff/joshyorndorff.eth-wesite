@@ -1,4 +1,3 @@
-
 +++
 title = "Government shutdown"
 date = "2013-10-03T06:48:07+00:00"

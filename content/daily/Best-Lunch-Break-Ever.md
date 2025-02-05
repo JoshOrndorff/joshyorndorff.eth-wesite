@@ -1,4 +1,3 @@
-
 +++
 title = "Best Lunch Break Ever"
 date = "2010-05-28T04:40:32+00:00"

@@ -1,4 +1,3 @@
-
 +++
 title = "Groundhog Day"
 date = "2017-02-03T00:26:54+00:00"

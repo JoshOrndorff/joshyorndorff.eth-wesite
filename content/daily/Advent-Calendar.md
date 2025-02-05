@@ -1,4 +1,3 @@
-
 +++
 title = "Advent Calendar"
 date = "2012-12-04T21:55:37+00:00"

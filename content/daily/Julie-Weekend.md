@@ -1,4 +1,3 @@
-
 +++
 title = "Julie Weekend"
 date = "2018-07-09T03:32:32+00:00"

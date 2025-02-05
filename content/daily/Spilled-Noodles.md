@@ -1,4 +1,3 @@
-
 +++
 title = "Spilled Noodles"
 date = "2012-01-16T22:14:42+00:00"

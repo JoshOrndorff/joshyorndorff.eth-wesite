@@ -1,4 +1,3 @@
-
 +++
 title = "More Jackson"
 date = "2014-02-07T22:01:43+00:00"

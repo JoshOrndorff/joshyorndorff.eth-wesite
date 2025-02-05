@@ -1,4 +1,3 @@
-
 +++
 title = "Bowser diversity"
 date = "2017-09-07T23:35:34+00:00"
