@@ -1,0 +1,8 @@
+
++++
+title = "Moved in"
+date = "2017-11-28T22:03:17+00:00"
++++
+
+First daily thought posted to my new upgraded server!
+			
