@@ -1,8 +1,8 @@
 
 +++
-title = "Myspace"
-date = "2015-05-03T00:51:04+00:00"
+title = "Myspace?"
+date = "2013-11-13T20:28:37+00:00"
 +++
 
-Myspace was sweet because it taught me CSS.
+What the hell happened to my myspace?
 			

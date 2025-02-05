@@ -1,8 +1,8 @@
 
 +++
-title = "Noodles"
-date = "2016-05-23T03:16:27+00:00"
+title = "Noodles :("
+date = "2012-09-18T21:50:19+00:00"
 +++
 
-Finding a bonus pack of noodles on the back of the cupboard when you thought you were out of food is like winning the lottery.
+Worst feeling ever: Accidentally dumping freshly cooked noodles in the sink while draining them.
 			
