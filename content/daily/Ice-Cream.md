@@ -1,8 +1,0 @@
-+++
-title = "Ice Cream"
-date = "2016-04-25T21:44:55+00:00"
-+++
-
-<img title="Dunk your feet in ice cream." style="max-width: 100%;"src="/sites/default/files/daily/icecream.jpg" />
-We miss you Tom.
-			

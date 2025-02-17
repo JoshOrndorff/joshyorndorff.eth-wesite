@@ -1,8 +1,0 @@
-
-+++
-title = "Cold ride"
-date = "2013-11-03T22:36:16+00:00"
-+++
-
-That bicycle ride was colder than any on the trip.
-			

@@ -1,8 +1,0 @@
-
-+++
-title = "Mosquito"
-date = "2016-03-08T23:34:21+00:00"
-+++
-
-Got my first mosquito bite of the season.
-			

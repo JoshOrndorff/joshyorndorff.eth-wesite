@@ -1,8 +1,0 @@
-
-+++
-title = "New Shoes"
-date = "2019-01-08T18:04:08+00:00"
-+++
-
-Finally Getting new running shoes today!
-			

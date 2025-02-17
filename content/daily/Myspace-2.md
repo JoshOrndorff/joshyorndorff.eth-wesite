@@ -1,8 +1,0 @@
-
-+++
-title = "Myspace"
-date = "2015-05-03T00:51:04+00:00"
-+++
-
-Myspace was sweet because it taught me CSS.
-			

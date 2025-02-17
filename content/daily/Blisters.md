@@ -1,9 +1,0 @@
-+++
-title = "Blisters"
-date = "2016-01-24T04:33:33+00:00"
-+++
-
-Fist shoveling of the season. And two blisters to show for it.
-
-Come on hands, don't be wimpy.
-			

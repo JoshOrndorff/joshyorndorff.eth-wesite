@@ -1,8 +1,0 @@
-
-+++
-title = "Last day"
-date = "2019-05-21T08:18:13+00:00"
-+++
-
-Last full day in Berlin. Can't wait to come back.
-			

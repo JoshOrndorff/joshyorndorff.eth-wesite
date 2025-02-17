@@ -1,8 +1,0 @@
-
-+++
-title = "Snow!?"
-date = "2016-04-02T15:35:31+00:00"
-+++
-
-It's April. There shouldn't be snow in the forecast.
-			

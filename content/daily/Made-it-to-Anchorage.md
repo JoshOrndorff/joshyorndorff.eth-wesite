@@ -1,8 +1,0 @@
-
-+++
-title = "Made it"
-date = "2015-02-11T04:00:37+00:00"
-+++
-
-Made it to Anchorage. One day of training down. Maybe being manager will be a cook new experience.
-			

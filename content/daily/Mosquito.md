@@ -1,8 +1,0 @@
-
-+++
-title = "Mosquito!"
-date = "2014-09-01T01:26:41+00:00"
-+++
-
-Ahhh, how did a mosquito get in my room!?
-			

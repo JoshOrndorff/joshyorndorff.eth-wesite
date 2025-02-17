@@ -1,9 +1,0 @@
-+++
-title = "No winter"
-date = "2012-12-17T05:39:01+00:00"
-+++
-
-Dear Winter,
-
-Thanks for finally agreeing to take a <a href="/node/574">year off</a> :)
-			

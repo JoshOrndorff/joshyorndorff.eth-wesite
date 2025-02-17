@@ -1,8 +1,0 @@
-
-+++
-title = "Noodles :("
-date = "2012-09-18T21:50:19+00:00"
-+++
-
-Worst feeling ever: Accidentally dumping freshly cooked noodles in the sink while draining them.
-			

@@ -1,9 +1,0 @@
-+++
-title = "Used to be"
-date = "2015-11-06T03:27:17+00:00"
-+++
-
-"Didn't there used to be five of those?"
-
-"Didn't there used to be..." is a weird sentence construction.
-			
