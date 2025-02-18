@@ -1,6 +1,6 @@
 +++
 title = "Happy Valentine's Day 2025"
-date = "2025-01-30"
+date = "2025-02-14"
 
 [taxonomies]
 tags = []
@@ -20,4 +20,17 @@ This instinct was confirmed later when I saw how many gifts (aka sugar and plast
 Instead I gave them to a few special people in my life.
 I'll also share the photos here for everyone to enjoy.
 
-(Trigger warning, one of them has a pun that may not be totally socially acceptable in 2025. But I still kinda think its funny and mean no offence by it so I'm leaving it in.)
+![](./airplane.jpg)
+![](./coral.jpg)
+![](./under-water-plants.jpg)
+![](./red-hearted.jpg)
+![](./fire.jpg)
+![](./heart-plant.jpg)
+![](./leprechaun.jpg)
+![](./arrow.jpg)
+![](./friend.jpg)
+![](./coo.jpg)
+![](./hearts.jpg)
+![](./valentimes.jpg)
+![](./feb-13.jpg)
+![](./gift.jpg)
